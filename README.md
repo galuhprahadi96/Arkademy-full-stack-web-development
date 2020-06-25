@@ -14,3 +14,5 @@ Tugas 10 (Bonus) Bootcamp Arkademy
 
 
 # Tampilan Update Data
+![Edit_Data](https://user-images.githubusercontent.com/40691793/85664054-002d7800-b6e4-11ea-81ee-72cdaeb7d6fd.png)
+
