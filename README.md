@@ -10,7 +10,7 @@ Tugas 10 (Bonus) Bootcamp Arkademy
 
 
 # Tampilan Tambah Data
-
+![Tambah_Data](https://user-images.githubusercontent.com/40691793/85663952-e4c26d00-b6e3-11ea-9b3e-32c9c553e8a0.png)
 
 
 # Tampilan Update Data
